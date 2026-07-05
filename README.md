@@ -1,4 +1,4 @@
-# Loan-Default-Analysis
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b59c2db-15cc-468b-ba63-03517acee2de" /># Loan-Default-Analysis
 Loan Default Analysis using SQL and Power BI
 # Loan Default Analysis
 
@@ -62,19 +62,11 @@ Loan defaults can significantly impact a bank's profitability. This project aims
 
 ### Overview Dashboard
 
-*(Add a screenshot here)*
-
 ### Loan Status Analysis
-
-*(Add a screenshot here)*
 
 ### Regional Analysis
 
-*(Add a screenshot here)*
-
 ### Risk Analysis
-
-*(Add a screenshot here)*
 
 ---
 
@@ -98,7 +90,6 @@ Loan defaults can significantly impact a bank's profitability. This project aims
 
 ## Repository Structure
 
-```text
 Loan-Default-Analysis
 │
 ├── Loan_Default_Analysis.pbix
