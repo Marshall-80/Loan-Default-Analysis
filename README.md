@@ -101,9 +101,3 @@ Loan-Default-Analysis
 
 ---
 
-## Contact
-
-**Sachin Tyagi**
-
-- LinkedIn: *(Add your profile link)*
-- GitHub: *(Add your profile link)*
