@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b59c2db-15cc-468b-ba63-03517acee2de" /># Loan-Default-Analysis
+Default-Analysis
 Loan Default Analysis using SQL and Power BI
 # Loan Default Analysis
 
